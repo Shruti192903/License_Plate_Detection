@@ -10,4 +10,4 @@ This project implements an Automatic License Plate Detection (ALPD) system using
 - License plate detection using contour analysis and morphological operations
 - License plate character recognition using Tesseract OCR
 - Support for multiple license plate formats (e.g., Indian, US, European)
-- Configurable parameters for fine-tuning the detection and recognition process
+- Configurable parameters for fine-tuning the detection and recognition process             
